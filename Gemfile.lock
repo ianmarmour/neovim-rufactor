@@ -1,0 +1,14 @@
+GEM
+  specs:
+    msgpack (1.1.0)
+    neovim (0.5.1)
+      msgpack (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  neovim
+
+BUNDLED WITH
+   1.15.4
